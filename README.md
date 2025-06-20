@@ -1,4 +1,5 @@
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=false&vCenter=true&width=800&height=400&lines=Hey+%F0%9F%91%8B+What's+up%3F)
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&center=false&vCenter=true&width=900&height=120&lines=Hey+%F0%9F%91%8B+What's+up%3F)
+
 
 
 ###
